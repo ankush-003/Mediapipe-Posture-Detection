@@ -1,6 +1,6 @@
 # Mediapipe-Posture-Detection
 Posture detection using mediapipe python library
-## Example
+## Sample Outputs
 
 ![correct_pose](https://user-images.githubusercontent.com/94037471/210154907-3a237fa7-722c-47fe-839b-0098a0a1cf12.png)
 ![pose_detection](https://user-images.githubusercontent.com/94037471/210154913-f0cca7c8-a147-4487-9551-3252ae52e661.png)
