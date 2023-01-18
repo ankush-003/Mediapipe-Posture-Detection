@@ -7,6 +7,11 @@ Posture detection using mediapipe python library
 ![image](https://user-images.githubusercontent.com/94037471/210155055-62dbeb12-65d6-4693-8614-a4298a426053.png)
 ![image](https://user-images.githubusercontent.com/94037471/210172702-c4770ec0-5091-4671-a9b8-28136f3b7120.png)
 -->
-> Detection from a video file
+> Jumping Jacks Counter
 
-![expected](https://user-images.githubusercontent.com/94037471/210431015-b12963a4-e5b3-40f7-89ba-07ec019950ce.gif)
+![jjcounter](https://user-images.githubusercontent.com/94037471/213290924-83f74734-8e18-44dd-9843-efa41261bb56.gif)
+
+<!--
+> Pose Detection
+
+![expected](https://user-images.githubusercontent.com/94037471/210431015-b12963a4-e5b3-40f7-89ba-07ec019950ce.gif) -->
